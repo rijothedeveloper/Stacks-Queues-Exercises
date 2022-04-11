@@ -1,0 +1,14 @@
+{
+  "name": "stacks-queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queue.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
